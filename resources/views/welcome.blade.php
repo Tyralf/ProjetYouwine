@@ -72,6 +72,7 @@
                         <a href="{{ url('/home') }}">Profile</a>
                     @else
                         <a href="{{ url('/login') }}">Connexion</a>
+                    |
                         <a href="{{ url('/register') }}">Inscription</a>
                     @endif
                 </div>
@@ -83,10 +84,11 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
+                    <a href="https://laravel.com/docs">Documentation Laravel</a>
 
                     <a href="https://github.com/Tyralf/ProjetAvecAlice2">GitHub Perso</a>
                 </div>
+
             </div>
         </div>
     </body>
