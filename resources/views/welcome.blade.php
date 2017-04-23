@@ -80,13 +80,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Projet Arian
+                    YOU WINE
                 </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation Laravel</a>
 
-                    <a href="https://github.com/Tyralf/ProjetAvecAlice2">GitHub Perso</a>
+                    <a href="https://github.com/Tyralf/ProjetYouwine">GitHub Perso</a>
                 </div>
 
             </div>
