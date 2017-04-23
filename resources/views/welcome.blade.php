@@ -20,6 +20,10 @@
                 height: 100vh;
                 margin: 0;
             }
+            .WINE{
+                background-color: #fff;
+                color: #b50000;
+            }
 
             .full-height {
                 height: 100vh;
@@ -80,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    YOU WINE
+                    YOU <mark class="WINE">WINE</mark>
                 </div>
 
                 <div class="links">
