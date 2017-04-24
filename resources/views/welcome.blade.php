@@ -84,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    YOU <mark class="WINE">WINE</mark>
+                    YOU <mark class="WINE">WINE</mark> 2
                 </div>
 
                 <div class="links">
