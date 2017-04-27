@@ -91,8 +91,7 @@
                     <a href="https://laravel.com/docs">Documentation Laravel</a>
                     <a href="https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/memento-des-balises-html">Memo HTML</a>
                     <a href="https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/memento-des-proprietes-css">Memo CSS</a>
-                    <a href="https://github.com/Tyralf/ProjetYouwine">GitHub Perso
-                     </a>
+                    <a href="https://github.com/Tyralf/ProjetYouwine">GitHub Perso</a>
                 </div>
 
             </div>
